@@ -3,7 +3,7 @@
 //  Swift App
 //
 //  Created by ShaggyDog on 26/7/17.
-//  Copyright © 2017 ShaggyDog. All rights reserved.
+//  Copyright © 2017 ShaggyDog. All rights reserved..
 //
 
 import UIKit
